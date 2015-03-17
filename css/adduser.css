@@ -1,0 +1,44 @@
+
+/* Define baseline styles for HTML elements */
+@import "reset.css";
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.form-adduser {
+  max-width: 350px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-adduser .form-adduser-heading,
+.form-adduser .checkbox {
+  margin-bottom: 10px;
+}
+.form-adduser .checkbox {
+  font-weight: normal;
+}
+.form-adduser .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-adduser .form-control:focus {
+  z-index: 2;
+}
+.form-adduser input[type="email"] {
+  margin-bottom: 10px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-adduser input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}

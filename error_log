@@ -1,0 +1,98 @@
+[17-Feb-2015 18:34:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:34:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:35:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:35:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:35:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:35:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:36:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:36:43 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 2
+[17-Feb-2015 18:37:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 18:37:57 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 18:38:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 18:38:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 18:51:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 18:51:08 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:2) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 18:55:55 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/unikitty/public_html/BDR/index.php:1) in /home/unikitty/public_html/BDR/session.php on line 1
+[17-Feb-2015 19:09:48 America/Chicago] PHP Warning:  htmlspecialchars() expects at least 1 parameter, 0 given in /home/unikitty/public_html/BDR/index.php on line 57
+[18-Feb-2015 20:28:07 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:28:07 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[18-Feb-2015 20:32:04 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:32:04 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[18-Feb-2015 20:32:07 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:32:07 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[18-Feb-2015 20:32:08 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:32:08 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[18-Feb-2015 20:32:09 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:32:09 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[18-Feb-2015 20:32:09 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:32:09 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[18-Feb-2015 20:32:10 America/Chicago] PHP Notice:  Undefined index: verify in /home/unikitty/public_html/BDR/education.php on line 8
+[18-Feb-2015 20:32:10 America/Chicago] PHP Notice:  Undefined variable: errmsg in /home/unikitty/public_html/BDR/education.php on line 119
+[19-Feb-2015 19:54:33 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 19:54:34 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 70
+[19-Feb-2015 19:54:34 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 79
+[19-Feb-2015 19:56:56 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 19:56:56 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 19:56:56 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 19:56:56 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 19:57:02 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 19:57:02 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 19:57:02 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 19:57:02 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:01:39 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 20:01:39 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 20:01:39 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 20:01:39 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:01:42 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 20:01:42 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 20:01:42 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 20:01:42 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:03:36 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 20:03:36 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 20:03:36 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 20:03:36 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:03:38 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 20:03:38 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 20:03:38 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 20:03:38 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:11:00 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 20:11:00 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 20:11:00 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 20:11:00 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:13:11 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/validation.php on line 11
+[19-Feb-2015 20:13:11 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 13
+[19-Feb-2015 20:13:11 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 130
+[19-Feb-2015 20:13:11 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 139
+[19-Feb-2015 20:15:34 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 98
+[19-Feb-2015 20:15:34 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 215
+[19-Feb-2015 20:15:34 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 224
+[19-Feb-2015 20:15:36 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 98
+[19-Feb-2015 20:15:36 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 215
+[19-Feb-2015 20:15:36 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 224
+[19-Feb-2015 20:15:38 America/Chicago] PHP Notice:  Undefined index: sid in /home/unikitty/public_html/BDR/index.php on line 98
+[19-Feb-2015 20:15:38 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 215
+[19-Feb-2015 20:15:38 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 224
+[19-Feb-2015 20:16:09 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 213
+[19-Feb-2015 20:16:09 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 222
+[19-Feb-2015 20:16:21 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 213
+[19-Feb-2015 20:16:21 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 222
+[19-Feb-2015 20:55:53 America/Chicago] PHP Notice:  Undefined variable: fnameErr in /home/unikitty/public_html/BDR/index.php on line 213
+[19-Feb-2015 20:55:53 America/Chicago] PHP Notice:  Undefined variable: lnameErr in /home/unikitty/public_html/BDR/index.php on line 222
+[20-Feb-2015 12:23:13 America/Chicago] PHP Notice:  Undefined index: fname in /home/unikitty/public_html/BDR/index.php on line 93
+[20-Feb-2015 12:23:13 America/Chicago] PHP Notice:  Undefined index: lname in /home/unikitty/public_html/BDR/index.php on line 94
+[20-Feb-2015 12:23:13 America/Chicago] PHP Notice:  Undefined index: email in /home/unikitty/public_html/BDR/index.php on line 95
+[20-Feb-2015 12:23:13 America/Chicago] PHP Notice:  Undefined index: phone in /home/unikitty/public_html/BDR/index.php on line 96
+[20-Feb-2015 12:23:13 America/Chicago] PHP Notice:  Undefined index: degree in /home/unikitty/public_html/BDR/index.php on line 97
+[22-Feb-2015 21:13:58 America/Chicago] PHP Notice:  Undefined index: fname in /home/unikitty/public_html/BDR/index.php on line 93
+[22-Feb-2015 21:13:58 America/Chicago] PHP Notice:  Undefined index: lname in /home/unikitty/public_html/BDR/index.php on line 94
+[22-Feb-2015 21:13:58 America/Chicago] PHP Notice:  Undefined index: email in /home/unikitty/public_html/BDR/index.php on line 95
+[22-Feb-2015 21:13:58 America/Chicago] PHP Notice:  Undefined index: phone in /home/unikitty/public_html/BDR/index.php on line 96
+[22-Feb-2015 21:13:58 America/Chicago] PHP Notice:  Undefined index: degree in /home/unikitty/public_html/BDR/index.php on line 97
+[23-Feb-2015 19:51:46 America/Chicago] PHP Warning:  include(https://black-rain-drops-alexykwon.c9.io/session.php): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/unikitty/public_html/BDR/mail_student.php on line 5
+[23-Feb-2015 19:51:47 America/Chicago] PHP Warning:  include(): Failed opening 'https://black-rain-drops-alexykwon.c9.io/session.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/unikitty/public_html/BDR/mail_student.php on line 5
+[23-Feb-2015 19:51:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/unikitty/public_html/BDR/mail_student.php:5) in /home/unikitty/public_html/BDR/mail_student.php on line 36
+[26-Feb-2015 12:52:50 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/unikitty/public_html/BDR/pdo-db-test.php on line 18
+[26-Feb-2015 12:58:27 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/unikitty/public_html/BDR/pdo-db-test.php on line 18
+[26-Feb-2015 13:01:32 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/unikitty/public_html/BDR/pdo-db-test.php on line 18
+[26-Feb-2015 13:24:51 America/Chicago] PHP Strict Standards:  Only variables should be passed by reference in /home/unikitty/public_html/BDR/pdo-db-test.php on line 18
